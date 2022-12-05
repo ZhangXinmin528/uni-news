@@ -1,0 +1,20 @@
+{
+	"id": "uni-news",
+	"name": "新闻资讯App",
+	"displayName": "新闻资讯App",
+	"version": "1.0.0",
+	"description": "基于uni-app开发的新闻资讯类App",
+	"keywords": [
+		"模板",
+		"新闻",
+		"资讯",
+		"uni-app",
+		"VUE"
+	],
+	"dcloudext": {
+		"category": [
+			"前端页面模板",
+			"uni-app前端项目模板"
+		]
+	}
+}
